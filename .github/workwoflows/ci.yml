@@ -25,4 +25,4 @@ jobs:
    # Ejecución de tests (1.5 Puntos)
     - name: Ejecutar tests
       # ✅ CORRECCIÓN CLAVE: Añadir el directorio actual (la raíz) a la ruta de módulos de Python
-      run: PYTHONPATH=. pytest -v 
+      run: PYTHONPATH=. pytest -v
